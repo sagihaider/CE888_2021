@@ -26,3 +26,12 @@ Useful link for NumPy and Matplotlib:
 1. https://matplotlib.org/tutorials/introductory/pyplot.html
 2. https://www.tutorialspoint.com/matplotlib/index.htm
 3. https://github.com/rougier/matplotlib-tutorial 
+
+
+#### Help
+
+Here is a list of cheatsheets that may be useful:
+
+1. Numpy [PDF](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+2. [Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+3. Pandas [PDF 1](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [PDF 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
