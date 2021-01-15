@@ -1,5 +1,12 @@
 # CE888_2021
 
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
 ## Lab 1: Introduction
 
 Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjCz4EVYbA) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
