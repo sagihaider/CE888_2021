@@ -2,8 +2,9 @@
 
 # Table of Contents
 1. [Lab 1: Introduction](#introduction)
-2. [Assignment](#assignment)
-3. [Help](#help)
+2. [Lab 2: Coming soon](#comingsoon)
+3. [Assignment](#assignment)
+4. [Help](#help)
 
 ***
 
