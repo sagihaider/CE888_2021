@@ -3,8 +3,8 @@
 # Table of Contents
 1. [Lab 1: Introduction](#example)
 2. [Help](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+3. [Assignment](#third-example)
+
 
 ## Lab 1: Introduction
 
@@ -39,3 +39,6 @@ Here is a list of cheatsheets that may be useful:
 1. Numpy: [PDF](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 2. Matplotlib: [PDF](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 3. Pandas: [PDF 1](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [PDF 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
+
+
+## Assignment
