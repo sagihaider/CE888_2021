@@ -1,12 +1,12 @@
 # CE888_2021
 
 # Table of Contents
-1. [Lab 1: Introduction](#example)
-2. [Help](#example2)
-3. [Assignment](#third-example)
+1. [Lab 1: Introduction](#introduction)
+2. [Help](#help)
+3. [Assignment](#assignment)
 
 
-## Lab 1: Introduction
+## Lab 1: Introduction <a name="introduction"></a>
 
 Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjCz4EVYbA) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
 
@@ -32,7 +32,7 @@ Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjC
 3. https://github.com/rougier/matplotlib-tutorial 
 
 
-## Help
+## Help <a name="help"></a>
 
 Here is a list of cheatsheets that may be useful:
 
@@ -41,4 +41,4 @@ Here is a list of cheatsheets that may be useful:
 3. Pandas: [PDF 1](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [PDF 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
 
 
-## Assignment
+## Assignment <a name="assignment"></a>
