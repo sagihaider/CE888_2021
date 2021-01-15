@@ -2,16 +2,15 @@
 
 # Table of Contents
 1. [Lab 1: Introduction](#example)
-2. [Example2](#example2)
+2. [help](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
 
 ## Lab 1: Introduction
 
 Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjCz4EVYbA) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
 
-## Steps to follow:
+### Steps to follow:
 
 1. Create a Google Account if you don't have.
 2. Open [Google Colab](https://colab.research.google.com/)
@@ -20,22 +19,20 @@ Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjC
 5. Now, [Lab 1 Exercise](https://github.com/sagihaider/CE888_2021/blob/main/Lab_1/Exercise_Lab_1.ipynb). Please feel free to take the help from web.
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
-
-
-## NumPy
+### NumPy
 
 1. http://cs231n.github.io/python-numpy-tutorial/ 
 2. https://numpy.org/devdocs/user/quickstart.html
 3. https://www.geeksforgeeks.org/python-numpy/
 
-## Matplotlib
+### Matplotlib
 
 1. https://matplotlib.org/tutorials/introductory/pyplot.html
 2. https://www.tutorialspoint.com/matplotlib/index.htm
 3. https://github.com/rougier/matplotlib-tutorial 
 
 
-#### Help
+## Help
 
 Here is a list of cheatsheets that may be useful:
 
