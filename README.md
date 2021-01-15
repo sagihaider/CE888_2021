@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Lab 1: Introduction](#example)
-2. [help](#example2)
+2. [Help](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
