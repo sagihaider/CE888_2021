@@ -2,9 +2,10 @@
 
 # Table of Contents
 1. [Lab 1: Introduction](#introduction)
-2. [Help](#help)
-3. [Assignment](#assignment)
+2. [Assignment](#assignment)
+3. [Help](#help)
 
+***
 
 ## Lab 1: Introduction <a name="introduction"></a>
 
@@ -31,6 +32,11 @@ Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjC
 2. https://www.tutorialspoint.com/matplotlib/index.htm
 3. https://github.com/rougier/matplotlib-tutorial 
 
+***
+
+## Assignment <a name="assignment"></a>
+
+***
 
 ## Help <a name="help"></a>
 
@@ -40,5 +46,3 @@ Here is a list of cheatsheets that may be useful:
 2. Matplotlib: [PDF](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 3. Pandas: [PDF 1](https://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [PDF 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
 
-
-## Assignment <a name="assignment"></a>
