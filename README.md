@@ -36,6 +36,13 @@ Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjC
 
 ## Assignment <a name="assignment"></a>
 
+How to prepare and write the assignment 
+
+1. We recommend you to use https://www.overleaf.com/ for preparing your assignment in LaTeX
+2. Please use [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates.html) to write the assignment, you can download LaTeX template by click here [Downlaod LaTeX Template](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/conference-latex-template_10-17-19.zip) 
+3. We have created a [YouTube](https://www.youtube.com/watch?embed=no&v=Ubi1lg4CXrw&t=314s) tutorial for you on how to write the assignment in LaTeX
+4. If you are new to writing in Science, please complete this [writing course](https://www.youtube.com/watch?list=PL7MSLdv6U956caUxMGr7c0sBD7ZIP-Nie&v=Pbb0H114PYM&feature=emb_title) by Standford, which can help you in writing a good assignment.
+
 ***
 
 ## Help <a name="help"></a>
