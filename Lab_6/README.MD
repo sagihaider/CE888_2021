@@ -20,7 +20,7 @@ Please open [notebook](https://github.com/sagihaider/CE888_2021/blob/main/Lab_6/
 
 Task 7: To complete this task, please create a new notebook in Google Colab. 
 
-Your data is stored in Lab_3/Data folder. There are two .csv files: 1) Country-data.csv and 2) data-dictionary.csv. Please explore the data and use any clustering method to find the list of countries, which can categorised as follows:
+Your data is stored in Lab_6/Data folder. There are two .csv files: 1) Country-data.csv and 2) data-dictionary.csv. Please explore the data and use any clustering method to find the list of countries, which can categorised as follows:
 
 | S.No      | Categories |
 | ----------- | ----------- |
