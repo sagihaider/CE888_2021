@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Lab 1: Introduction](#introduction)
-2. [Lab 2: Coming soon](#comingsoon)
+2. [Lab 6: Data Exploration](#DE)
 3. [Assignment](#assignment)
 4. [Help](#help)
 
@@ -32,6 +32,10 @@ Please make sure you have filled this [Google form](https://forms.gle/iZdf6LSAjC
 1. https://matplotlib.org/tutorials/introductory/pyplot.html
 2. https://www.tutorialspoint.com/matplotlib/index.htm
 3. https://github.com/rougier/matplotlib-tutorial 
+
+***
+## Lab 6: Data Exploration <a name="DE"></a>
+
 
 ***
 
