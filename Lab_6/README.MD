@@ -16,7 +16,7 @@ Please open [notebook](https://github.com/sagihaider/CE888_2021/blob/main/Lab_6/
 
 **Task 6:** Apply Logistic Regression on training features and predict test features
 
-## Lab 3: Exercise to be completed
+## Lab 6: Exercise to be completed
 
 Task 7: To complete this task, please create a new notebook in Google Colab. 
 
