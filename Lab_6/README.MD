@@ -22,7 +22,7 @@ Task 7: To complete this task, please create a new notebook in Google Colab.
 
 Your data is stored in Lab_3/Data folder. There are two .csv files: 1) Country-data.csv and 2) data-dictionary.csv. Please explore the data and use any clustering method to find the list of countries, which can categorised as follows:
 
-| Syntax      | Categories |
+| S.No      | Categories |
 | ----------- | ----------- |
 | 1   | under-developing country |
 | 2   | developing country       |
