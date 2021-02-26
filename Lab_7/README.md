@@ -9,6 +9,9 @@ Go to [Exercise 1](https://github.com/sagihaider/CE888_2021/blob/main/Lab_7/Exer
 
 # Task 2
 
+
+We have used Dropout to enhance the performance of the CNN model. Can you please use whatever you like to further enhance the performance from `val_acc: 0.7506`? 
+
 ***
 
 # Task 3
