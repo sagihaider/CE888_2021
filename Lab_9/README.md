@@ -4,8 +4,10 @@
 
 1. Please go through VAEs [Exercise 1](https://github.com/sagihaider/CE888_2021/blob/main/Lab_9/Exercise_1_VAE.ipynb). I found a very interesting Blog Post on [VAEs](https://www.jeremyjordan.me/variational-autoencoders/) worth reading. 
 
+*** 
+
 # Generative Adversarial Networks (GANs) in Keras
 
-<img src="https://media.arxiv-vanity.com/render-output/4655799/gan.png" width="500" height="200">
+<img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" width="500" height="200">
 
 2. Please go through GANs [Exercise 1](https://github.com/sagihaider/CE888_2021/blob/main/Lab_9/Exercise_1_VAE.ipynb). I have created a GitHub repo two years ago [GANs Theory](https://github.com/sagihaider/GAN/blob/master/GAN_tutorial.ipynb) and [GANs MNIST Example](https://github.com/sagihaider/GAN/blob/master/DCGAN_MNIST.ipynb), please have a look. 
